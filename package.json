@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "castv2": "~0.1.4",
+    "castv2": "github:efoxbr/node-castv2",
     "debug": "^2.2.0"
   },
   "devDependencies": {
